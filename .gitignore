@@ -1,0 +1,4 @@
+*.so
+test_program
+*.log
+/.vagrant
